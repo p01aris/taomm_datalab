@@ -1,2 +1,2 @@
 # taomm_datalab
-# taomm_datalab
+Taomm_datalab is a spider app foucus get Taobao MM data, Such as height, weight, area, welcome index. Not like similar project. This project using PhantomJS and selenuim. Get data from a common web page with ajax. The main purpose is verification selenuim xpath find element of web page. You can easily modify the code for other spider project. 
