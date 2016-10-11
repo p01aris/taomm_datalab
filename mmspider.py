@@ -1,5 +1,5 @@
 #coding=utf-8
-__author__ = 'Daemon'
+__author__ = 'p01aris'
 
 import urllib2,re,os,datetime
 from selenium import webdriver
